@@ -54,3 +54,7 @@ To include it in your project, without the VOT toolkit you just need to:
 
 	// Get the position of the object for the new frame
 	result = tracker.update(frame);
+=======
+# mykk
+modify kcf
+>>>>>>> e3ca78996690856b799b3fb07dacd181910dfdff
